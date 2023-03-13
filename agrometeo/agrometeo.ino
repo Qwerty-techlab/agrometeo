@@ -1,3 +1,11 @@
+/*
+  Agrometeo 
+  created 13 Mar 2022
+  tested 
+  by Kirill Chefonov
+  GitHub: https://github.com/Qwerty-techlab
+  VK: https://vk.com/alkekseevich 
+*/
 
 //===Settings============
 #define DS18B20 9
